@@ -6,6 +6,7 @@ function [resultImage, permuteParameter] = hb_imageScramble(inputImage, nSection
 % >> resultImage = hb_imageScramble(inputImage, 4, true);
 % initial commit : 20160326
 % hiobeen@yonsei.ac.kr
+% key word : image scramble matlab 
 
 if nargin < 3
     showOption = false;
